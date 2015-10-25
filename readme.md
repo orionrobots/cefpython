@@ -1,9 +1,3 @@
-Project will move to github: https://github.com/cztomczak/cefpython
-
-
----
-
-
 <table cellpadding='0' cellspacing='0' align='left' border='0' width='100%'><tr>
 <td width='180'>
 <h1>CEF Python</h1>

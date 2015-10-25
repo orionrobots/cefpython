@@ -1,9 +1,3 @@
-Project will move to github. Find this wiki page at the new address: https://github.com/cztomczak/cefpython/wiki/ApplicationSettings
-
-
----
-
-
 # Application settings #
 
 Table of contents:
